@@ -1,0 +1,18 @@
+.fa-shopping-cart {
+    color: white;
+    padding-top: 2px;
+    width: 110px;
+}
+
+.btn-outline {
+    padding-top: 2px;
+}
+
+
+.fa-shopping-cart:hover {
+    color:orange;
+}
+
+.navbar {
+    background-color: teal;
+}

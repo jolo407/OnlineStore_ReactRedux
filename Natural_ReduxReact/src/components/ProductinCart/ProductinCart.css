@@ -1,0 +1,49 @@
+.product-img {
+    display: inline-block;
+    margin: 10px;
+   
+    
+}
+
+.prd-img {
+    width: 175px;
+    border: 1px solid turquoise;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.product-title {
+    display: inline-block;
+}
+
+.product-title h2{
+    font-size: 35px;
+    color: turquoise
+}
+
+.product-price {
+    display: inline-block;
+    width: 100px;
+    margin-top: px;
+}
+
+.product-price h3 {
+    font-size: 18px;
+    color: lightblue;
+    height: 12px;
+}
+
+.product-price h4 {
+    font-size: 22px;
+    color: greenyellow;
+    height: 1px;
+    
+}
+
+.product-btn {
+    display: inline-block;
+    width: 100px;
+    height: 20px;
+    padding: 20px;
+}
+
